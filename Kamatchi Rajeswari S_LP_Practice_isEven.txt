@@ -1,0 +1,9 @@
+import java.util.*;
+import java.io.*;
+public isEven(int input1){
+	if(input1%2==0){//Checking even or notss
+		return 2;
+	}
+	else{
+		return 1;
+	}
